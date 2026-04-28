@@ -12,7 +12,7 @@ def визитка():
         "имя": "Вадим",
         "навыки": ["FastAPI", "Python", "Создание API"],
         "контакты": {
-            "telegram": "@",
+            "telegram": "@Vadimoroginal",
             "email": "ireallifel883@gmail.com"
         }
     }
